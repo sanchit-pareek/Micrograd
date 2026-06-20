@@ -2,7 +2,7 @@
 
 A tiny scalar-valued autograd engine (automatic differentiation) and a small neural network library built on top of it with a PyTorch-like API.
 
-This project is an educational implementation based on [Andrej Karpathy's micrograd](https://github.com/karpathy/micrograd), designed to understand how automatic differentiation and backpropagation work under the hood.
+This project is designed to understand how automatic differentiation and backpropagation work under the hood.
 
 ## Overview
 
